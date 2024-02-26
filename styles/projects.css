@@ -1,0 +1,37 @@
+body {
+  background-image: url(/pictures/Background.jpg);
+  color: white;
+}
+.center {
+  font-size: 25px;
+  text-align: center;
+  margin-left: 44%;
+  width: 14%;
+  padding: 0px;
+}
+
+.titles {
+  padding: 15px;
+  background: linear-gradient(to right, #3498db, #1abc9c);
+  color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.paragraph {
+  text-align: center;
+  font-size: 20px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.wrapper {
+  border: 3px double;
+  padding: 20px;
+  border-image: linear-gradient(to right, #4caf50, #2196f3) 1;
+  border-image-slice: 1;
+  text-align: center;
+  margin-bottom: 20px;
+}
