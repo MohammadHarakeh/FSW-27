@@ -1,0 +1,35 @@
+body {
+  background-image: url("/pictures/Background.jpg");
+  background-size: cover;
+}
+.center {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin-top: 50px;
+}
+
+.wrapper {
+  width: 30%;
+  text-align: center;
+  margin-left: 34%;
+  padding: 0px;
+  margin-top: 30px;
+}
+
+.My-Picture {
+  width: 200px;
+}
+
+.box {
+  border: 5px solid rgb(255, 255, 255);
+  width: 100px;
+  height: fit-content;
+  color: white;
+  background-color: white;
+  text-decoration: none;
+}
+
+.box a {
+  text-decoration: none;
+  color: black;
+}
